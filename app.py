@@ -10,7 +10,7 @@ import keyring
 conn = mysql.connector.connect(
     host="localhost",
     user="pyapp",
-    password="Lushane27#01",
+    password="annexation",
     database="music_db"
 )
 cursor = conn.cursor()
